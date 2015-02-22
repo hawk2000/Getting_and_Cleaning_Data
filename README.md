@@ -102,7 +102,7 @@ The details for each of these measures is described in the original documentatio
 [59] "FrequencyBodyGyroscopeStdY"                 
 [60] "FrequencyBodyGyroscopeStdZ"                 
 [61] "FrequencyBodyAccelerometerMagnitudeMean"    
-[62] "FrequencyBodyAccelerometerMagnitudeStd"     
+[62] "FrequencyBodyAccelerometerMagnitudeStd"
 [63] "FrequencyBodyAccelerometerJerkMagnitudeMean"
 [64] "FrequencyBodyAccelerometerJerkMagnitudeStd" 
 [65] "FrequencyBodyGyroscopeMagnitudeMean"        
