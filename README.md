@@ -37,7 +37,7 @@ The data is ordered by subject and activity, being the rest of the variables the
  [1] "Subject" : Each subject is identified by a number from 1 to 30. The test subjects are 2, 4, 9, 10, 12, 13, 18, 20 and 24. The others are train subjects                                    
  [2] "Activity" : The different activities measured: "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING" and "LAYING"                                   
 
-The rest of the variables contain the mean for the different measures in the original data with time and frequency domain variables.
+The rest of the variables contain the mean for the different measures in the original data with time and frequency domain variables. They are normalized and bounded within [-1, 1].
 
 (XYZ) is used to denote 3-axial signals in the X, Y and Z directions.
 
